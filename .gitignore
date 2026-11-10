@@ -7,3 +7,6 @@ __pycache__/
 # Prices are fetched at runtime, never committed.
 data/*.parquet
 data/*.csv
+
+# macOS
+.DS_Store
